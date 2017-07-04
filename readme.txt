@@ -1,1 +1,2 @@
-hello my git
+hello my beautiful git!
+
